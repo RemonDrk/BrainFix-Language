@@ -1,0 +1,7 @@
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\bin\Debug\BrainFix Language.exe.config
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\bin\Debug\BrainFix Language.exe
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\bin\Debug\BrainFix Language.pdb
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\obj\Debug\BrainFix Language.csprojAssemblyReference.cache
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\obj\Debug\BrainFix Language.csproj.CoreCompileInputs.cache
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\obj\Debug\BrainFix Language.exe
+E:\Omer_\Calisma\CS Konsol Projeleri\BrainFix Language\obj\Debug\BrainFix Language.pdb
